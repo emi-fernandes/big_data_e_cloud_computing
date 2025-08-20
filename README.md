@@ -1,1 +1,5 @@
-# big_data_e_cloud_computing
+☁️ Big Data e Cloud Computing
+
+Este repositório foi criado para armazenar os projetos, trabalhos e anotações da disciplina Big Data e Cloud Computing.
+
+Emilly Fernandes
